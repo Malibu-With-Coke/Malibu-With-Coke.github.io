@@ -1,8 +1,9 @@
 title: Counting Star
 description: Until..
-author: Shangzhi Huang
+author: JeongGyeom Choe
 avatar: /logo.png
 email: cjk6150@gmail.com
+skin: midnight
 
 plugins:
   - jekyll-seo-tag

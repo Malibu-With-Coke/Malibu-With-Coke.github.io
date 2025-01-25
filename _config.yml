@@ -1,6 +1,6 @@
 title: Counting Star
 description: Until..
-author: JeongGyeom Choe
+author: JG.Choe
 avatar: /logo.png
 email: cjk6150@gmail.com
 
@@ -32,8 +32,6 @@ exclude:
 logo: logo.png
 social:
   name: JeongGyeom Choe
-  links:
-    - https://github.com/Malibu-With-Coke
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 # skin: Sunset
